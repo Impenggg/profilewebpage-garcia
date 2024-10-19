@@ -11,7 +11,7 @@ function Home() {
       <header className="bg-primary text-white text-center py-5">
         <h1>Welcome to My Profile!</h1>
         <p className="lead">
-        Hi! I’m a computer science student passionate about coding, technology, and innovation. I’m constantly learning and growing, with a focus on developing skills that will allow me to solve real-world problems using technology.
+        Hi! I’m Adrian John Garcia, a computer science student passionate about coding, technology, and innovation. I’m constantly learning and growing, with a focus on developing skills that will allow me to solve real-world problems using technology.
         </p>
       </header>
       <About />
